@@ -1,8 +1,5 @@
 # Watershed-Based Object Segmentation and Counting Using Classical Image Processing
 
-Student: Sara Jonuzanj  
-Student ID: C210302801
-
 ## Project Summary
 
 This project segments and counts overlapping objects such as coins, seeds, pills, or cells using a classical image processing pipeline. It uses preprocessing, thresholding, distance transform, marker-controlled watershed segmentation, morphology, and connected component analysis.
